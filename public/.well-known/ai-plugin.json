@@ -6,13 +6,13 @@
   "description_for_model": "Use the LeagueOfLegendsGPT plugin to automatically fetch League of Legends champion information, strategies and tactics.",
   "api": {
     "type": "openapi",
-    "url": "https://lolgpt.vercel.app/openapi.json",
+    "url": "https://lolgpt-plugin.vercel.app/openapi.json",
     "has_user_authentication": false
   },
   "auth": {
     "type": "none"
   },
-  "logo_url": "https://lolgpt.vercel.app/logo.png",
+  "logo_url": "https://lolgpt-plugin.vercel.app/logo.png",
   "contact_email": "jacob.gable@gmail.com",
-  "legal_info_url": "https://lolgpt.vercel.app/legal"
+  "legal_info_url": "https://lolgpt-plugin.vercel.app/legal"
 }

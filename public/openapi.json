@@ -62,7 +62,7 @@
                     "infoLink": {
                       "type": "string",
                       "format": "uri",
-                      "description": "A link to a page with more information about the champion in the format https://lolgpt.vercel.app/champions/{championName}."
+                      "description": "A link to a page with more information about the champion in the format https://lolgpt-plugin.vercel.app/champions/{championName}."
                     }
                   }
                 }

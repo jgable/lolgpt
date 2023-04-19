@@ -11,6 +11,6 @@ export async function GET(req: NextRequest) {
 
   return NextResponse.json({
     champion: championData,
-    infoLink: `https://lolgpt.vercel.app/champions/${encodeURIComponent(champion)}`,
+    infoLink: `https://lolgpt-plugin.vercel.app/champions/${encodeURIComponent(champion)}`,
   });
 }

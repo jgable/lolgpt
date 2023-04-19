@@ -13,7 +13,7 @@ export const metadata = {
       "LolGPT is a ChatGPT Plugin to get League of Legends champion information. Built with Next.js and served from Vercel's Edge Network.",
     creator: "@jacob4u2",
   },
-  metadataBase: new URL("https://lolgpt.vercel.app"),
+  metadataBase: new URL("https://lolgpt-plugin.vercel.app"),
   themeColor: "#FFF",
 };
 
