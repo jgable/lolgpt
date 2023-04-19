@@ -1,38 +1,22 @@
-import { Illustration } from "./illustration";
 import { Footer } from "./footer";
 
-export function PageData({ data }: { data: any }) {
+export function PageData() {
   const date = new Date().toISOString();
   return (
     <>
       <main>
         <a
           target="_blank"
-          href="https://chatg.pt/weather"
+          href="https://dub.sh/T79Xj98"
           rel="noreferrer"
           className="pill"
         >
           Deploy your own to Vercel
         </a>
-        <h1>WeatherGPT</h1>
+        <h1>LoLGPT</h1>
         <p className="description">
-          ChatGPT Plugin to get the weather of any given location
+          ChatGPT Plugin to get League of Legends champion information
         </p>
-        <Illustration />
-        <div className="meta">
-          <div className="info">
-            <span>Your Location</span>
-            <span className="region">
-              <strong>{data.location.name}</strong>
-            </span>
-          </div>
-          <div className="info">
-            <span>Current Temperature</span>
-            <strong>
-              {data.current.temp_c}°C / {data.current.temp_f}°F
-            </strong>
-          </div>
-        </div>
       </main>
 
       <Footer>

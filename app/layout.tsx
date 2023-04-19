@@ -2,18 +2,18 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-  title: "WeatherGPT - ChatGPT Plugin to get the weather of any given location",
+  title: "LolGPT - ChatGPT Plugin to get League of Legends champion information",
   description:
-    "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
+    "LolGPT is a ChatGPT Plugin to get League of Legends champion information. Built with Next.js and served from Vercel's Edge Network.",
   twitter: {
     card: "summary_large_image",
     title:
-      "WeatherGPT - ChatGPT Plugin to get the weather of any given location",
+      "LolGPT - ChatGPT Plugin to get League of Legends champion information",
     description:
-      "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
-    creator: "@steventey",
+      "LolGPT is a ChatGPT Plugin to get League of Legends champion information. Built with Next.js and served from Vercel's Edge Network.",
+    creator: "@jacob4u2",
   },
-  metadataBase: new URL("https://weathergpt.vercel.app"),
+  metadataBase: new URL("https://lolgpt.vercel.app"),
   themeColor: "#FFF",
 };
 
