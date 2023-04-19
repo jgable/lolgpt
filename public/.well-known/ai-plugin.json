@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_model": "LeagueOfLegendsGPT",
   "name_for_human": "LeagueOfLegendsGPT",
-  "description_for_human": "Get information about League of Legends champions and strategy.",
-  "description_for_model": "Use the LeagueOfLegendsGPT plugin to automatically fetch League of Legends champion information, strategies and tactics.",
+  "description_for_human": "Get information about League of Legends champions.",
+  "description_for_model": "Use the LeagueOfLegendsGPT plugin to get League of Legends champion information, strategies and tactics. Get detailed champion information about Aatrox, Ahri, Akali, Akshan, Alistar, Amumu, Anivia, Annie, Aphelios, Ashe, AurelionSol, Azir, Bard, Belveth, Blitzcrank, Brand, Braum, Caitlyn, Camille, Cassiopeia, Chogath, Corki, Darius, Diana, DrMundo, Draven, Ekko, Elise, Evelynn, Ezreal, Fiddlesticks, Fiora, Fizz, Galio, Gangplank, Garen, Gnar, Gragas, Graves, Gwen, Hecarim, Heimerdinger, Illaoi, Irelia, Ivern, Janna, JarvanIV, Jax, Jayce, Jhin, Jinx, KSante, Kaisa, Kalista, Karma, Karthus, Kassadin, Katarina, Kayle, Kayn, Kennen, Khazix, Kindred, Kled, KogMaw, Leblanc, LeeSin, Leona, Lillia, Lissandra, Lucian, Lulu, Lux, Malphite, Malzahar, Maokai, MasterYi, Milio, MissFortune, MonkeyKing, Mordekaiser, Morgana, Nami, Nasus, Nautilus, Neeko, Nidalee, Nilah, Nocturne, Nunu, Olaf, Orianna, Ornn, Pantheon, Poppy, Pyke, Qiyana, Quinn, Rakan, Rammus, RekSai, Rell, Renata, Renekton, Rengar, Riven, Rumble, Ryze, Samira, Sejuani, Senna, Seraphine, Sett, Shaco, Shen, Shyvana, Singed, Sion, Sivir, Skarner, Sona, Soraka, Swain, Sylas, Syndra, TahmKench, Taliyah, Talon, Taric, Teemo, Thresh, Tristana, Trundle, Tryndamere, TwistedFate, Twitch, Udyr, Urgot, Varus, Vayne, Veigar, Velkoz, Vex, Vi, Viego, Viktor, Vladimir, Volibear, Warwick, Xayah, Xerath, XinZhao, Yasuo, Yone, Yorick, Yuumi, Zac, Zed, Zeri, Ziggs, Zilean, Zoe and Zyra.",
   "api": {
     "type": "openapi",
     "url": "https://lolgpt-plugin.vercel.app/openapi.json",
